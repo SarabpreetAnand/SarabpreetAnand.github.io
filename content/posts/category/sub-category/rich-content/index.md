@@ -23,20 +23,3 @@ This sample post tests the followings:
 
 {{< img src="/posts/category/sub-category/rich-content/images/forest.jpg" align="center" title="Forest">}}
 
-{{< vs >}}
-
-### Tweet Sample
-
-{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
-
-{{< vs >}}
-
-### YouTube Video Sample
-
-{{< youtube ZJthWmvUzzc >}}
-
-{{< vs >}}
-
-### Vimeo Video Sample
-
-{{< vimeo 48912912 >}}
