@@ -11,15 +11,15 @@ section:
 designation: Delivery Operations Manager - Databases
 # your company information
 company:
-  name: IBM
-  url: "https://www.ibm.com/in-en"
+  name: IBM\Kyndryl
+  url: "https://www.kyndryl.com/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'Data Enthusiast & Former Microsoft Data Platform MVP (Most Valuable Professional) with 16+ years of Industry experience. Overlooking Service Delivery Operations for a Global Financial customer with a team of 49 highly skilled engineers. Passionate Speaker & Learner. Love to work on Automation & fun projects.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -44,6 +44,11 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
+  name: Former Microsoft Most Valuable Professional Data Platform
+  url: "https://mvp.microsoft.com/en-us/PublicProfile/4040040"
+  badge: "https://mvp.microsoft.com/Content/Images/MVP_Reconnect_Logo_Blue_Color_RGB.png"
+
+- type: certification
   name: Microsoft Certified Azure Administrator Associate
   url: "https://www.credly.com/badges/a7ea5620-ae5d-4c62-8148-56fec906cb80"
   badge: "https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"
@@ -52,6 +57,18 @@ badges:
   name: Data Science Foundations Specialization
   url: "https://www.credly.com/badges/bda7be29-dad2-4eca-9ac2-3daccb72b808"
   badge: "https://images.credly.com/size/340x340/images/ac4daa48-1924-4dc5-80cf-ede5a08bac51/Data_Science_Foundations_Specialization.png"
+
+- type: certification
+  name: Google Cloud Professional Cloud Architect GCP
+  url: "https://www.credential.net/0bc17492-9165-4e42-a5c4-de41f82393a7#gs.67chym"
+  badge: "https://badges.images.credential.net/1521044380812.png"
+
+
+- type: certification
+  name: Microsoft Certified Azure Database Administrator Associate
+  url: "https://www.credly.com/badges/0bc39d62-e217-4fa4-8edf-4ccac66daf7a"
+  badge: "https://images.credly.com/size/340x340/images/edc0b0d8-55ec-4dfe-9353-22c1bc4e07e8/azure-database-administrator-associate-600x600.png"
+
 
 - type: certification
   name: Data Science Orientation
@@ -69,41 +86,14 @@ badges:
   badge: "https://images.credly.com/size/340x340/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png"
 
 - type: certification
-  name: Microsoft Certified Azure Administrator Associate
-  url: "https://www.credly.com/badges/ed23f34d-0b62-44aa-9870-2990e4e42484"
-  badge: "https://images.credly.com/size/340x340/images/35d18649-95c6-4c78-b07a-cfc1362318f3/azure-administrator-associate.png"
+  name: Tools for Data Science
+  url: "https://www.credly.com/badges/f47775ff-c3db-4a8a-be54-553ffe90baf5"
+  badge: "https://images.credly.com/size/340x340/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png"
 
 - type: certification
   name: Big Data Foundations Level 1
   url: "https://www.credly.com/badges/0b0187d7-93f8-4bf5-b9f4-2b52b8288f88"
   badge: "https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png"
-
-- type: certification
-  name: Microsoft Certified Trainer
-  url: "https://www.credly.com/badges/80f8cfa0-0679-47b9-8533-e380ef594bef"
-  badge: "https://images.credly.com/size/340x340/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png"
-
-
-- type: certification
-  name: Microsoft Certified Azure Database Administrator Associate
-  url: "https://www.credly.com/badges/0bc39d62-e217-4fa4-8edf-4ccac66daf7a"
-  badge: "https://images.credly.com/size/340x340/images/edc0b0d8-55ec-4dfe-9353-22c1bc4e07e8/azure-database-administrator-associate-600x600.png"
-
-
-- type: certification
-  name: Provisioning SQL Databases Azure
-  url: "https://www.credly.com/badges/ccdaf440-e2d6-461b-b355-31ac5c0815af"
-  badge: "https://images.credly.com/size/340x340/images/cfed94a1-08ba-48d6-91e0-409fda2d6f33/Provisioning_SQL_Databases-01.png"
-
-- type: certification
-  name: MCSA SQL 2016 Database Administration Certified 2019
-  url: "https://www.credly.com/badges/befdba8d-837f-4863-8cb9-a6195a0bb509"
-  badge: "https://images.credly.com/size/340x340/images/9580a855-da8c-420b-a47c-ba7f2409515e/MCSA-SQL-2016-Database-Administration-2019.png"
-
-- type: certification
-  name: Tools for Data Science
-  url: "https://www.credly.com/badges/f47775ff-c3db-4a8a-be54-553ffe90baf5"
-  badge: "https://images.credly.com/size/340x340/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png"
 
 
 - type: certification
@@ -118,10 +108,35 @@ badges:
   badge: "https://images.credly.com/size/340x340/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png"
 
 
+
 - type: certification
-  name: Google Cloud Professional Cloud Architect GCP
-  url: "https://www.credential.net/0bc17492-9165-4e42-a5c4-de41f82393a7#gs.67chym"
-  badge: "https://badges.images.credential.net/1521044380812.png"
+  name: Microsoft Certified Trainer
+  url: "https://www.credly.com/badges/80f8cfa0-0679-47b9-8533-e380ef594bef"
+  badge: "https://images.credly.com/size/340x340/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png"
+
+
+
+
+- type: certification
+  name: Provisioning SQL Databases Azure
+  url: "https://www.credly.com/badges/ccdaf440-e2d6-461b-b355-31ac5c0815af"
+  badge: "https://images.credly.com/size/340x340/images/cfed94a1-08ba-48d6-91e0-409fda2d6f33/Provisioning_SQL_Databases-01.png"
+
+- type: certification
+  name: MCSA SQL 2016 Database Administration Certified 2019
+  url: "https://www.credly.com/badges/befdba8d-837f-4863-8cb9-a6195a0bb509"
+  badge: "https://images.credly.com/size/340x340/images/9580a855-da8c-420b-a47c-ba7f2409515e/MCSA-SQL-2016-Database-Administration-2019.png"
+
+
+- type: certification
+  name: Microsoft Certified Azure Administrator Associate
+  url: "https://www.credly.com/badges/ed23f34d-0b62-44aa-9870-2990e4e42484"
+  badge: "https://images.credly.com/size/340x340/images/35d18649-95c6-4c78-b07a-cfc1362318f3/azure-administrator-associate.png"
+
+
+
+
+
 
 
 - type: soft-skill-indicator
