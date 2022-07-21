@@ -11,9 +11,9 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: IBM \ Kyndryl
+    url: "https://www.kyndryl.com/in/en"
+    location: Noida
     # company overview
     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
